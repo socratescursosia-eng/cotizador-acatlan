@@ -13,8 +13,8 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🏛️ FES ACATLÁN - Sistema de Precisión Web")
-st.subheader("Despliegue de Agentes de IA para el DSC")
+st.title("🏛️ FAC - Sistema de Precisión Web")
+st.subheader("Despliegue de Agentes de IA para el D")
 
 # --- TABLA DE PRECIOS (TU CEREBRO DE DATOS) ---
 tabla_precios = {
@@ -67,4 +67,4 @@ if archivo:
     st.metric("TOTAL A COBRAR", f"${total_final:.2f}")
 
 st.markdown("---")
-st.caption("Realización Mtro. Alfredo Corona | Supervisión Mtro. Oscar Caballero | Revisó Lic. Gabriel Salgado")
+st.caption("Realización  | Supervisión  | Revisó ")
